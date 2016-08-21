@@ -5,7 +5,6 @@ setup(
     version='1.0',
     py_modules=['read_env'],
     description='Read .env files for your python project',
-    long_description=read('README.md'),
     author='Alexis Leon',
     author_email='alexis.leon@icloud.com',
     url='https://github.com/AlexisLeon/read_env',
