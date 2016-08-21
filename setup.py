@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='read_env',
-    version=__version__,
+    version='1.0',
     py_modules=['read_env'],
     description='Read .env files for your python project',
     long_description=read('README.md'),
